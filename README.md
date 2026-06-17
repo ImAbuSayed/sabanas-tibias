@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-tibias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sábanas tibias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-tibias/) |
+| **Get License** | [License this song: Sábanas tibias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-tibias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sábanas tibias, la noche no acaba
+> Tú me miras y la disco se apaga
+> Con ese flow de Madrid que me mata
+> Baby, ven, que mi cama te reclama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
