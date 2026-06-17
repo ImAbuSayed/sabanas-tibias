@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas tibias
+
+This log tracks the cryptographic history and versioning for the song **Sábanas tibias** (sabanas-tibias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T17:48:12.334770 | `v1` | `beda72be18dfcaa7bbe6f985d83564e409cc6fe4f8db262fb10e38ef8cf6005b` | `ffb2232542679ef477b02d64b5d5086efbb5a1249f58b559cddd30c5a3b91575` | `2026-06-17_sabanas-tibias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
